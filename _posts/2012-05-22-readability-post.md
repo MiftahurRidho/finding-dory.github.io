@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Dory"
 date: Rilis 17 Juni 2016
-excerpt: "Sinopsid finding dory."
+excerpt: "Sinopsis finding dory."
 tags: [sample post, readability, test]
 comments: true
 ---

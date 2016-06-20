@@ -12,6 +12,8 @@ comments: true
 
 #### Vidio seputar finding dory
 
+berikut beberapa thriller finding doly yang kami ambil dari youtube.
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/6k69UcUB68Q" frameborder="0"> </iframe>
 
 FINDING DORY All Trailer | Disney Movie 2016.

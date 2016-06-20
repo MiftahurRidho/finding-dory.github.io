@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "UIN SUSKA RIAU"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Sekilas tentang UIN SUSKA RIAU."
 project: true
 tag:
 - jekyll 
@@ -12,8 +12,6 @@ tag:
 - theme
 comments: true
 ---
-
-<center> Informasi lain.</center>
 
 ## UIN SUSKA RIAU
 

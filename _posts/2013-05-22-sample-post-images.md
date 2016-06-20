@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
-excerpt: "Examples and code for displaying images in posts."
+title: "Bagaimana film finding dory?"
+date: 27 juni 2016
+excerpt: "Menjelaskan sedikit tentang film finding dory."
 tags: [sample post, images, test]
 comments: true
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+Film "Finding Dory" bercerita tentang kehidupan seekor ikan bernam Dory (Ellen DeGeneres), yang mempunyai sebuah kebiasaan aneh yaitu pelupa. Suatu hari Dory menemani Nemo untuk melakukan melakukan sebuah perjalanan berkelas demi melihat ikan manta ray bermigras. Akan tetapi Dory tiba-tiba merindukan dan teringat akan rumahnya, namun masalah dengan sifat pelula pun muncul, karena dia tidak tau dari mana ia berasal.
+
+Akhirnya Dory dan Nemo pun melakukan sebuah petualangan ke California, demi mencari orangtuanya. California merupakan tempat Dory dilahirkan, sebelum dia terpisah dari keluarganya saat dia masih sangat muda.
 
 ### Figures (for images or video)
 

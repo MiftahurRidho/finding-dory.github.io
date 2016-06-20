@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-## UIN SUSKA RIAU
+## Sejarah singkat
 
 Universitas Islam Negeri Sultan Syarif Kasim (UIN Suska) Riau dalam bahasa Arab adalah  جامعة السلطان شريف قاسم الإسلامية اﻟﺤﻜﻮمية رياو dan dalam bahasa Inggris adalah State Islamic University of Sultan Syarif Kasim Riau merupakan hasil pengembangan/ peningkatan status pendidikan dari Institut Agama Islam Negeri (IAIN) Sulthan Syarif Qasim Pekanbaru yang secara resmi dikukuhkan berdasarkan Peraturan Presiden RI Nomor 2 Tahun 2005 tanggal 4 Januari 2005 tentang Perubahan IAIN Sulthan Syarif Qasim Pekanbaru menjadi UIN Sultan Syarif Kasim Riau dan diresmikan pada 9 Februari 2005 oleh Presiden RI, Bapak Dr. H. Susilo Bambang Yudhoyono sebagai tindak lanjut perubahan status ini, Menteri Agama RI menetapkan Organisasi dan Tata kerja UIN Suska Riau berdasarkan Peraturan Menteri Agama RI Nomor 8 Tahun 2005 tanggal 4 April 2005.
 

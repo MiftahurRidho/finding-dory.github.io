@@ -10,7 +10,7 @@ comments: true
 ## Audio 1
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/ab.ogg" type="audio/ogg">
+  <source src="//ab.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 

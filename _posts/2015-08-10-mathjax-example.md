@@ -9,13 +9,6 @@ comments: true
 
 ## Audio 1
 
-<audio autoplay>
-  <source src="/ab.ogg" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
-
-## Audio 2
-
 <audio controls="controls">
   <source src="//ab.ogg" type="audio/ogg">
 Your browser does not support the audio element.

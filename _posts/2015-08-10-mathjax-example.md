@@ -16,7 +16,7 @@ Your browser does not support the audio element.
 
 ## Audio 2
 
-<audio controls>
+<audio controls="controls">
   <source src="//ab.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>

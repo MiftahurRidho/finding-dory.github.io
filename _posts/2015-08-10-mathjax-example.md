@@ -10,8 +10,7 @@ comments: true
 ## Audio 1
 
 <audio controls>
-  <source src="//ab.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="ab.ogg" type="audio/ogg"/>
 Your browser does not support the audio element.
 </audio>
 

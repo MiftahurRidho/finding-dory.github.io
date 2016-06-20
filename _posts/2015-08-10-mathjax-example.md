@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Audio finding doly"
+title: "Audio finding dory"
 date: Rilis 17 Juni 2016
 excerpt: "Beberapa audio seputar finding doly."
 tags: [sample post, readability, test]

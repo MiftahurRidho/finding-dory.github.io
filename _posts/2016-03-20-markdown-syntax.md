@@ -23,7 +23,7 @@ berikut beberapa meme seputar finding dory:
 <figure class="half">
 	<a href="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/a.png"><img src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/a.png"></a>
 	<a href="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/b.jpg"><img src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/b.jpg"></a>
-	<figcaption>Two images.</figcaption>
+	<figcaption>meme seputar finding dory.</figcaption>
 </figure>
 
 Dan lagi:
@@ -32,10 +32,10 @@ Dan lagi:
 	<img src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/c.PNG">
 	<img src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/d.jpg">
 	<img src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/e.PNG">
-	<figcaption>Three images.</figcaption>
+	<figcaption>meme seputar finding dory.</figcaption>
 </figure>
 
-## Notices
+## Catatan
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+**Perhatian!** Gambar diambil dari jejaring sosial yang di update netizen.
 {: .notice}

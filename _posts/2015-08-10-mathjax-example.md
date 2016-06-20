@@ -17,7 +17,7 @@ Your browser does not support the audio element.
 ## Audio 2
 
 <audio controls>
-  <source src="//ss.m4a" type="audio/ogg">
+  <source src="//ss.m4a" type="audio/m4a">
 Your browser does not support the audio element.
 </audio>
 

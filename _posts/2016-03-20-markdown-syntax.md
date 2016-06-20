@@ -12,99 +12,47 @@ tag:
 comments: true
 ---
 
-## HTML Elements
+#### Two Up
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
+Apply the `half` class like so to display two images side by side that share the same caption.
 
 {% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
+<figure class="half">
+    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
+    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
 {% endhighlight %}
 
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+And you'll get something that looks like this:
 
-## KBD
+<figure class="half">
+	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
 
-You can also use `<kbd>` tag for keyboard buttons.
+#### Three Up
+
+Apply the `third` class like so to display three images side by side that share the same caption.
 
 {% highlight html %}
-<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
+<figure class="third">
+	<img src="/images/image-filename-1.jpg">
+	<img src="/images/image-filename-2.jpg">
+	<img src="/images/image-filename-3.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 {% endhighlight %}
 
-Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
+And you'll get something that looks like this:
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<figcaption>Three images.</figcaption>
+</figure>
 
 ## Notices
 

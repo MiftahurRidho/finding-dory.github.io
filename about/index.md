@@ -19,7 +19,7 @@ Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Appl
 ## Preview
 
 {% capture images %}
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fhfhfh.png
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fhfhfh.JPG
     https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
     https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/kk.png
     https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/s.png

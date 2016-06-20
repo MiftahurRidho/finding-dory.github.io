@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> As'salammualaiku, Selamat datang.</center>
+<center> As'salammualaiku, Selamat datang.</center>
 
 ## Salam Pembuka
 Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Application Mobile, jika ada kekuarangan mohon dimaklumi karena masih tahap pembelajaran, terima kasih.

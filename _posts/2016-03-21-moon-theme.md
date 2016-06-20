@@ -18,8 +18,8 @@ comments: true
 Universitas Islam Negeri Sultan Syarif Kasim (UIN Suska) Riau dalam bahasa Arab adalah  جامعة السلطان شريف قاسم الإسلامية اﻟﺤﻜﻮمية رياو dan dalam bahasa Inggris adalah State Islamic University of Sultan Syarif Kasim Riau merupakan hasil pengembangan/ peningkatan status pendidikan dari Institut Agama Islam Negeri (IAIN) Sulthan Syarif Qasim Pekanbaru yang secara resmi dikukuhkan berdasarkan Peraturan Presiden RI Nomor 2 Tahun 2005 tanggal 4 Januari 2005 tentang Perubahan IAIN Sulthan Syarif Qasim Pekanbaru menjadi UIN Sultan Syarif Kasim Riau dan diresmikan pada 9 Februari 2005 oleh Presiden RI, Bapak Dr. H. Susilo Bambang Yudhoyono sebagai tindak lanjut perubahan status ini, Menteri Agama RI menetapkan Organisasi dan Tata kerja UIN Suska Riau berdasarkan Peraturan Menteri Agama RI Nomor 8 Tahun 2005 tanggal 4 April 2005.
 
 {% capture images %}
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fhfhfh.png
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fsf.jpg
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fsg.jpg
 {% endcapture %}
 {% include gallery images=images caption="Foto anggota kelompok" cols=2 %}
 
@@ -42,8 +42,8 @@ Dengan demikian, pada tahun akademik 2002/2003, IAIN Susqa sebagai persiapan UIN
 Peningkatan status IAIN menjadi UIN dimaksudkan untuk menghasilkan sarjana muslim yang mampu menguasai, mengembangkan, dan menerapkan ilmu ke-Islaman, ilmu pengetahuan dan teknologi secara intergral, sekaligus menghilangkan pandangan dikhotomi antara ilmu keislaman dan ilmu umum.
 
 {% capture images %}
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fhfhfh.png
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fsh.jpg
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fsj.jpg
 {% endcapture %}
 {% include gallery images=images caption="Foto anggota kelompok" cols=2 %}
 

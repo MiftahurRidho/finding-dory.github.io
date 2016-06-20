@@ -23,7 +23,7 @@ comments: false
 ## Preview
 
 {% capture images %}
-    https://www.facebook.com/photo.php?fbid=1052330028139524&set=a.144581215581081.17398.100000876099239&type=3&theater
+    https://github.com/fheo18/finding-dory.github.io/blob/gh-pages/rrrr.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}

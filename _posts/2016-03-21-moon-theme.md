@@ -17,6 +17,12 @@ comments: true
 
 Universitas Islam Negeri Sultan Syarif Kasim (UIN Suska) Riau dalam bahasa Arab adalah  جامعة السلطان شريف قاسم الإسلامية اﻟﺤﻜﻮمية رياو dan dalam bahasa Inggris adalah State Islamic University of Sultan Syarif Kasim Riau merupakan hasil pengembangan/ peningkatan status pendidikan dari Institut Agama Islam Negeri (IAIN) Sulthan Syarif Qasim Pekanbaru yang secara resmi dikukuhkan berdasarkan Peraturan Presiden RI Nomor 2 Tahun 2005 tanggal 4 Januari 2005 tentang Perubahan IAIN Sulthan Syarif Qasim Pekanbaru menjadi UIN Sultan Syarif Kasim Riau dan diresmikan pada 9 Februari 2005 oleh Presiden RI, Bapak Dr. H. Susilo Bambang Yudhoyono sebagai tindak lanjut perubahan status ini, Menteri Agama RI menetapkan Organisasi dan Tata kerja UIN Suska Riau berdasarkan Peraturan Menteri Agama RI Nomor 8 Tahun 2005 tanggal 4 April 2005.
 
+{% capture images %}
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fhfhfh.png
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
+{% endcapture %}
+{% include gallery images=images caption="Foto anggota kelompok" cols=2 %}
+
 Institut Agama Islam Negeri Sulthan Syarif Qasim (IAIN Susqa) Pekanbaru sebagai cikal bakal UIN Suska Riau, didirikan pada tanggal 19 September 1970 berdasarkan Surat Keputusan Menteri Agama Republik Indonesia No. 194 Tahun 1970. Institut ini diresmikan berdirinya oleh Menteri Agama Republik Indonesia K.H. Ahmad Dahlan pada tanggal 19 September 1970 berupa penandatanganan piagam dan pelantikan Rektor yang pertama, Prof. H. Ilyas Muhammad Ali.
 
 IAIN Susqa ini pada mulanya berasal dari beberapa Fakultas dari Perguruan Tinggi Agama Islam Swasta yang kemudian dinegerikan, yaitu Fakultas Tarbiyah Universitas Islam Riau di Pekanbaru, Fakultas Syariah Universitas Islam Riau di Tembilahan, dan Fakultas Ushuluddin Mesjid Agung An-Nur Pekanbaru.
@@ -35,6 +41,12 @@ Dengan demikian, pada tahun akademik 2002/2003, IAIN Susqa sebagai persiapan UIN
 
 Peningkatan status IAIN menjadi UIN dimaksudkan untuk menghasilkan sarjana muslim yang mampu menguasai, mengembangkan, dan menerapkan ilmu ke-Islaman, ilmu pengetahuan dan teknologi secara intergral, sekaligus menghilangkan pandangan dikhotomi antara ilmu keislaman dan ilmu umum.
 
+{% capture images %}
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fhfhfh.png
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
+{% endcapture %}
+{% include gallery images=images caption="Foto anggota kelompok" cols=2 %}
+
 Pengembangan UIN Suska tidak hanya dilakukan pada bidang akademik semata, seperti melalui pembukaan fakultas-fakultas dan program-program studi baru, tapi juga diarahkan pada pengembangan di bidang fisik, sarana, dan prasarana. Dewasa ini UIN Suska telah mempunyai lahan kampus seluas 84,15 Ha yang terdiri atas 3,65 Ha di Jl. K.H. Ahmad Dahlan dan 80,50 Ha di Km. 15 Jl. Soebrantas Simpangbaru Panam Pekanbaru.
 
 Lahan kampus di Km 15 Jl. H.R. Soebrantas tersebut dibebaskan pada tahun 1981/1982 mulanya seluas 60 Ha dan diperluas pada tahun 2003-2006 menjadi 80,50 Ha. Pada tahun 1995/1996 pembangunan fisik di lahan ini telah dimulai dan telah berhasil membangun gedung seluas 5.760 m2 untuk 70 lokal ruang kuliah.
@@ -42,12 +54,3 @@ Lahan kampus di Km 15 Jl. H.R. Soebrantas tersebut dibebaskan pada tahun 1981/19
 Sesuai dengan Peraturan Menteri Agama RI Nomor 8 Tahun 2005 tentang Organisasi dan Tata Kerja UIN Suska Riau dan Peraturan Menteri Agama RI Nomor 56 Tahun 2006 tentang Perubahan atas PMA RI No. 8 Tahun 2005 tentang Organisasi dan Tata Kerja UIN Suska Riau, maka UIN Suska Riau memiliki 8 fakultas, yaitu: Fakultas Tarbiyah dan Keguruan, Fakultas Syariah dan Ilmu Hukum, Fakultas Ushuluddin, Fakultas Dakwah dan Ilmu Komunikasi, Fakultas Sains dan Teknologi, Fakultas Psikologi, Fakultas Ekonomi dan Ilmu Sosial, dan Fakultas Pertanian dan Peternakan.
 
 
-{% capture images %}
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fhfhfh.png
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/kk.png
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/s.png
-{% endcapture %}
-{% include gallery images=images caption="Foto anggota kelompok" cols=2 %}
-
-silahkan kunjungi [UIN SUSKA RIAU](http://uin-suska.ac.id/).

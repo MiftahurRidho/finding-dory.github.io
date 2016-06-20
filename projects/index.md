@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Informasi lain
+excerpt: "Informasi latar belakang anggota"
 comments: false
 ---

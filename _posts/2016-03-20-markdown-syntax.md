@@ -16,19 +16,11 @@ comments: true
 
 Apply the `half` class like so to display two images side by side that share the same caption.
 
-{% highlight html %}
-<figure class="half">
-    <a href="a.png"><img src="a.png"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-{% endhighlight %}
-
 And you'll get something that looks like this:
 
 <figure class="half">
 	<a href="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/a.png"><img src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/a.png"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/b.jpg"><img src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/b.jpg"></a>
 	<figcaption>Two images.</figcaption>
 </figure>
 

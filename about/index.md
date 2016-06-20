@@ -21,8 +21,8 @@ Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Appl
 {% capture images %}
     https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/fhfhfh.png
     https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
-    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/kk.png
+    https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/s.png
 {% endcapture %}
 {% include gallery images=images caption="Foto anggota kelompok" cols=2 %}
 

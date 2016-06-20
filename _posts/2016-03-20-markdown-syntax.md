@@ -12,11 +12,13 @@ tag:
 comments: true
 ---
 
-#### Two Up
+#### Info umum
 
-Apply the `half` class like so to display two images side by side that share the same caption.
+Finding Dory ceritanya berputar pada seekor ikan yang menderita penyakit amnesia bernama Dory, dan Dory akan mencoba mengingat dan mencari keluarganya yang terpisah darinya saat dia masih sangat muda.
 
-And you'll get something that looks like this:
+dengan bnyaknya penonton yang menyukai film ini, begitu juga dengan meme-meme yang berkembang
+
+berikut beberapa meme seputar finding dory:
 
 <figure class="half">
 	<a href="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/a.png"><img src="https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/a.png"></a>

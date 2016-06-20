@@ -9,7 +9,7 @@ tag:
 - video
 comments: true
 ---
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=6k69UcUB68Q" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//https://www.youtube.com/watch?v=6k69UcUB68Q" frameborder="0"> </iframe>
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
 

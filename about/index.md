@@ -24,7 +24,7 @@ Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Appl
     https://raw.githubusercontent.com/fheo18/finding-dory.github.io/gh-pages/rrrr.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Foto anggota kelompok" cols=2 %}
 
 silahkan kunjungi [Tentang Kami](https://fheo18.github.io/finding-dory.github.io/about/) pada github.
 

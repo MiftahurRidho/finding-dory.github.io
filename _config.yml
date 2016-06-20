@@ -5,7 +5,7 @@ description:        "Finding Dory adalah film animasi 3 dimensi komputer yang di
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/1111.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/222.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://fheo18.github.io/finding-dory.github.io

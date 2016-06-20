@@ -9,7 +9,7 @@ comments: true
 
 ## Audio 1
 
-<audio controls>
+<audio auto="play">
   <source src="/ab.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
@@ -18,13 +18,6 @@ Your browser does not support the audio element.
 
 <audio controls>
   <source src="//ab.ogg" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
-
-## Audio 3
-
-<audio controls>
-  <source src="ab.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 

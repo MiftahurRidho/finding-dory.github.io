@@ -10,7 +10,7 @@ comments: true
 ## Audio 1
 
 <audio controls>
-  <source src="ss.ogg" type="audio/ogg">
+  <source src="/ss.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 

@@ -54,7 +54,19 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/projects">
                          Informasi lain
                          </a>
-                 </h3>
+                  </h3>
+                  <hr class="hr-line">
+                  <script type="text/javascript">
+if (localStorage.pagecount)
+  {
+  localStorage.pagecount=Number(localStorage.pagecount) +1;
+  }
+else
+  {
+  localStorage.pagecount=1;
+  }
+document.write("Anda telah melihat halaman kami sebanya "+ localStorage.pagecount + " kali.");
+</script>
               </html>
             </div>
         </div>

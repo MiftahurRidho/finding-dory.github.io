@@ -9,8 +9,6 @@ comments: true
 
 ## Audio !
 
-
-	<p>Silahkan klik Play.</p>
 	<audio controls="controls" widht="100%" height="auto">
 	<source src="/Iwan_Fals_Kemesraan.ogg" />
 	Teks ini akan muncul jika browser tidak support HTML5 Audio tag.

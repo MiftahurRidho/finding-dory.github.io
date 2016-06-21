@@ -9,8 +9,8 @@ comments: true
 
 ## Audio 1
 
-<audio controls>
-  <source src="ab.ogg" type="audio/ogg"/>
-Your browser does not support the audio element.
+<audio controls="controls" height="50px" width="100px">
+  <source src="ab.ogg" type="audio/ogg" />
+<embed height="50px" width="100px" src="song.mp3" />
 </audio>
 

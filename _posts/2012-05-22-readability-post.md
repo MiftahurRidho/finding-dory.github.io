@@ -4,7 +4,7 @@ title: "Finding Dory"
 date: Rilis 17 Juni 2016
 excerpt: "Sinopsis finding dory."
 tags: [sample post, readability, test]
-comments: true
+comments: false
 ---
 
 Finding Dory adalah film animasi 3 dimensi komputer yang dirilis pada tahun 2016 dan diproduksi oleh Pixar Animation Studios. Film ini merupakan sekuel dari Finding Nemo. Andrew Stanton, yang menyutradarai film aslinya, akan kembali sebagai sutradara di film ini. Film ini dijadwalkan dirilis pada tanggal 16 Juni 2016 di Indonesia dan 17 Juni 2016 di Amerika Serikat. Ini juga telah menegaskan bahwa karakter dari film pertama akan muncul dalam sekuel, termasuk Dory, Nemo, Marlin, Mr. Ray, Crush dan Squirt.

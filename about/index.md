@@ -11,8 +11,6 @@ comments: false
 ## Salam Pembuka
 Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Application Mobile, jika ada kekuarangan mohon dimaklumi karena masih tahap pembelajaran, terima kasih.
 
-
-
 ## Nama-nama anggota kelompok
 * Alfi Syahry
 * Aszani

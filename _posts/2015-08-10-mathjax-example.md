@@ -16,11 +16,4 @@ comments: true
 Your browser does not support the audio element.
 </audio>
 
-## Audio 2
- <audio controls width>
-  <source src="ss.ogg" type="audio/ogg">
-  <source src="ss.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-
-</audio>
 </center>

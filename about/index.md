@@ -6,16 +6,11 @@ date: 2016-03-21
 comments: false
 ---
     
-<center> As'salammualaiku, Selamat datang.</center>
+<center> Assalammua'laikum, Selamat datang.</center>
 
 ## Salam Pembuka
-<script>
-if(typeof(Storage)!==undefined") {localStorage.keterangan="<p>Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Application Mobile, jika ada kekuarangan mohon dimaklumi karena masih tahap pembelajaran, terima kasih.</p>";
-document.getElementById("result").innerHTML=""+localStorage.keterangan; }
-else 
-{ document.getElementById("result").innerHTML="Sorry, your browser does'nt supprot web storage"
-} 
-</script>
+Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Application Mobile, jika ada kekuarangan mohon dimaklumi karena masih tahap pembelajaran, terima kasih.
+
 
 ## Nama-nama anggota kelompok
 * Alfi Syahry

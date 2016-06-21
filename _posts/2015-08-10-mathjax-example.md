@@ -9,8 +9,9 @@ comments: true
 
 ## Audio !
 
-<audio controls>
-  <source src="//ss.ogg" type="audio/ogg">
-Your browser does not support the audio element.
-</audio>
 
+	<p>Silahkan klik Play.</p>
+	<audio controls="controls" widht="100%" height="auto">
+	<source src="/Iwan_Fals_Kemesraan.ogg" />
+	Teks ini akan muncul jika browser tidak support HTML5 Audio tag.
+	</audio>

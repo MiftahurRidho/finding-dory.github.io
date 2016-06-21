@@ -10,6 +10,8 @@ tag:
 comments: true
 ---
 
+<html manifest="cache.manifest">
+
 #### Vidio seputar finding dory
 
 berikut beberapa thriller finding doly yang kami ambil dari youtube.
@@ -21,4 +23,6 @@ FINDING DORY All Trailer | Disney Movie 2016.
 <iframe width="560" height="315" src="//www.youtube.com/embed/dLIy1K8kJPo" frameborder="0"> </iframe>
 
 Finding Dory Official Trailer #2 (2016) Ellen DeGeneres Animated Movie HD.
+
+</html>
 

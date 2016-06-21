@@ -6,10 +6,15 @@ excerpt: "Beberapa audio seputar finding doly."
 tags: [sample post, readability, test]
 comments: true
 ---
-
-## Audio !
-
-<center> <audio controls width>
+<center>
+## Audio 1
+ <audio controls width>
+  <source src="ss.ogg" type="audio/ogg">
+  <source src="ss.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+## Audio 2
+ <audio controls width>
   <source src="ss.ogg" type="audio/ogg">
   <source src="ss.mp3" type="audio/mpeg">
 Your browser does not support the audio element.

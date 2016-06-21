@@ -9,18 +9,9 @@ comments: false
 <center> As'salammualaiku, Selamat datang.</center>
 
 ## Salam Pembuka
-<div id=="result"> </div>
-<script>
-if(typeof(Storage)!=="undefined")
-{
-localStorage.keterangan="<p>Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Application Mobile, jika ada kekuarangan mohon dimaklumi karena masih tahap pembelajaran, terima kasih.</p>";
-document.getElementById("result").innerHTML="" + localStorage.keterangan;
-}
-else
-{
-document.getElementById("result").InnerHTML="Sorry, your browser does not support web storage..";   
-}
-<script>
+Halaman ini sengaja dibuat guna untuk memenuhi nilai akhir pada mata kuliah Application Mobile, jika ada kekuarangan mohon dimaklumi karena masih tahap pembelajaran, terima kasih.
+
+
 
 ## Nama-nama anggota kelompok
 * Alfi Syahry

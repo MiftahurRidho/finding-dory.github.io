@@ -7,10 +7,10 @@ tags: [sample post, readability, test]
 comments: true
 ---
 
-## Audio 1
+## Audio !
 
 <audio controls>
-  <source src="/ss.ogg" type="audio/ogg">
+  <source src="//ss.ogg" type="audio/ogg">
 Your browser does not support the audio element.
 </audio>
 

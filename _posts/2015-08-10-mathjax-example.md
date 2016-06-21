@@ -9,8 +9,9 @@ comments: true
 
 ## Audio !
 
-<audio controls>
+<center> <audio controls width>
   <source src="ss.ogg" type="audio/ogg">
   <source src="ss.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+</center>

@@ -10,7 +10,6 @@ tag:
 comments: true
 ---
 
-<html manifest="cache.manifest">
 
 #### Vidio seputar finding dory
 
@@ -24,5 +23,5 @@ FINDING DORY All Trailer | Disney Movie 2016.
 
 Finding Dory Official Trailer #2 (2016) Ellen DeGeneres Animated Movie HD.
 
-</html>
+
 
